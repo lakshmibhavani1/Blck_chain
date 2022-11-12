@@ -1,0 +1,11 @@
+{
+    "name": "my-first-truffle-project",
+    "version": "0.0.1",
+    "engines": {
+        "node": "11.6.x",
+        "npm": "6.5.x"
+    },
+    "devDependencies": {
+        "truffle": "^5.6.4"
+    }
+}
